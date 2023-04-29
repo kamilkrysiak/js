@@ -56,7 +56,6 @@ const colors = [
   "gold",
   "purple",
   "yellow",
-  "violet",
 ];
 
 // const square = document.querySelector(".square");
